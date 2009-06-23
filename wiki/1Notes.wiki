@@ -1,5 +1,5 @@
 #summary замечания к проекту
-
+Featured             = Listed on project home page
 = Основные замечания =
 
   * ограничения в названии страниц в Wiki - The page name must be one alphanumeric word. E.g., WikiPageName
