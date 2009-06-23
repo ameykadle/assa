@@ -2,14 +2,7 @@
 
 = Introduction =
 
-Add your content here.
-лорионрио а
- ац 
-а с
-wef
- у
-а ук
-
+Здесь - текст предложения или полный контент
 
 = Details =
 
@@ -17,4 +10,3 @@ Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
-
